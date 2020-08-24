@@ -6,7 +6,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 * Should have a working github account
 * Push the project to the account
 ## Known Bugs
-Could not display the name as intended but generated the number next to the name 
+no bugs found
 ## technologies used 
 1. HTML
 2. CSS
